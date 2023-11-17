@@ -16,7 +16,7 @@ export const USER_TYPES = {
 };
 
 
-export const CURRENT_USER = USER_TYPES.ADMIN_USER;
+export const CURRENT_USER = USER_TYPES.PUBLIC_USER;
 
 
 const AppRoutes = () => {
