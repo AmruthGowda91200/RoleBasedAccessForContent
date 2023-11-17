@@ -22,6 +22,7 @@ const PageNotFound = () => {
       </section>
       <div class="link-container">
         <a
+          rel="noreferrer"
           target="_blank"
           href="https://www.silocreativo.com/en/creative-examples-404-error-css/"
           class="more-link"
