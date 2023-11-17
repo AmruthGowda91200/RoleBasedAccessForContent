@@ -20,15 +20,7 @@ const PageNotFound = () => {
           <span class="screen-reader-text">4</span>
         </span>
       </section>
-      <div class="link-container">
-        <a
-          target="_blank"
-          href="https://www.silocreativo.com/en/creative-examples-404-error-css/"
-          class="more-link"
-        >
-          Visit the original article
-        </a>
-      </div>
+      
     </div>
   );
 };
