@@ -7,16 +7,9 @@ import PageNotFound from "../Pages/PageNotFound.jsx";
 import PublicElement from "../Auth/PublicElement.jsx";
 import UserElement from "../Auth/UserElement.jsx";
 import AdminElement from "../Auth/AdminElement.jsx";
+import { CURRENT_USER, USER_TYPES } from "../UserDeatils/UserDetails.jsx";
 
 
-export const USER_TYPES = {
-  PUBLIC_USER: "Public User",
-  NORMAL_USER: "Normal User",
-  ADMIN_USER: "Admin User",
-};
-
-
-export const CURRENT_USER = USER_TYPES.PUBLIC_USER;
 
 
 const AppRoutes = () => {

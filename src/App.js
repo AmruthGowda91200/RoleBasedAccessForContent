@@ -1,8 +1,7 @@
 import AppRoutes from "./Routes/AppRoutes.jsx";
 
 import Navbar from "./Componenets/Navbar.jsx"
-import { CURRENT_USER,USER_TYPES } from './Routes/AppRoutes';
-
+import { CURRENT_USER,USER_TYPES  } from "./UserDeatils/UserDetails.jsx";
 function App() {
   return (
     <div>
